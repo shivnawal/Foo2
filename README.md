@@ -6,4 +6,4 @@
 
 ### Volvo POC shiv 
 
-#### Direct update in master branch from github.com - Priority Coder
+#### Direct update in master branch from github.com - Only for Priority Coder
